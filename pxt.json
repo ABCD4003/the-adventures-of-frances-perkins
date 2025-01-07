@@ -1,5 +1,6 @@
 {
     "name": "The Adventures of Frances Perkins",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
